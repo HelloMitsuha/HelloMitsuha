@@ -1,4 +1,4 @@
- ## 👻 Hey!
+ ### 😁 Hi!
 
 
 - 🏠 Index
@@ -11,6 +11,5 @@
 - 📫 jiangyuxian@petalmail.com
 
 <!---
-✨ 嗷呜 ✨
-You can click the Preview link to take a look at your changes.
+✨ 特别的仓库，用于存放个人资料（readme.md） ✨
 --->
