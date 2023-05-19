@@ -1,15 +1,2 @@
-😁 Hi!
-
-
-- 🏠 Index
-    - [github](https://hellomitsuha.github.io)
-    - ~~[BUG猫](http://shequ.codemao.cn/user/5580757)~~
-    - ~~抖音~~
-    - ~~B站~~
-- 🌱 项目
-    - 无
-- 📫 ~~unknown~~
-
-<!---
-✨ 特别的仓库，用于存放个人资料（readme.md） ✨
---->
+<img align='right' src='https://cdn.jsdelivr.net/gh/HelloMitsuha/hellomitsuha/mitsuha.png' width='410px'>
+嗨！这里是HelloMitsuha，刚接触程序开发，不足之处，敬请原谅。欢迎来和我交流。😘
